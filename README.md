@@ -131,5 +131,4 @@ Five analytical reports via SQLite:
 
 ---
 
-*Built by [Your Name] · For Digitap.ai Python Data Analytics Internship*
-# FinVerify-Analytics-Platform
+*Built by Ghaziah
