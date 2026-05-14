@@ -1,6 +1,6 @@
 # FinVerify Analytics Platform
 ### Financial Data Intelligence & Risk Scoring System
-> Portfolio project built for Digitap.ai Data Analytics Internship
+
 
 ---
 
